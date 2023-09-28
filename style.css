@@ -1,0 +1,64 @@
+nav {
+    background-color: #5e3023;
+}
+
+header {
+    background-color: #895737;
+}
+
+section {
+    background-color: #dab49d;
+}
+
+section div div div h2 {
+    color: #5e3023;
+}
+
+h4 {
+    color: #895737;
+}
+
+section div div div div div p {
+    color: #895737
+}
+
+#second {
+    background-color: #c08552;
+}
+
+/* .fst-italic {margin-top: 5rem;
+margin-bottom: 5rem;} */
+
+#second p {
+    color: #5e3023;
+}
+
+#small {
+    width: 40px;
+    height: 40px;
+}
+
+#third p {
+    color: #895737;
+}
+
+/* .card {height: 500px;} */
+
+.body-contact {
+    background-color: #DAB49D;
+}
+
+.end-contact .bi {
+    color: maroon;
+}
+
+.about-header {background-color:  #DAB49D;}
+.ab-sec-two {
+    background-color: #DAB49D;
+}
+
+.ab-sec-one {
+    background-color: #E2CDC7;
+}
+.ab-sec-three {background-color: #E2CDC7; 
+}
